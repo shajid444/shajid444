@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Front-end developer](https://i.ibb.co/fkrBLZh/Colorful-Gradient-Modern-Style-Gaming-Channel-You-Tube-Banner.png)
 
 ### Hi there 👋, I am Md Shajid Hasan
