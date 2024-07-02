@@ -7,7 +7,7 @@
 
 As a beginner front-end developer, I'm eager to improve my skills in HTML, CSS, and JavaScript to create engaging user interfaces.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shajid444)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shajid444)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shajid444&theme=radical )   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shajid444)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shajid444&show_icons=true&theme=radical) 
 
