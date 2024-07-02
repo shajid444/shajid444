@@ -6,6 +6,9 @@
 
 As a beginner front-end developer, I'm eager to improve my skills in HTML, CSS, and JavaScript to create engaging user interfaces.
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shajid444)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shajid444&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shajid444)](https://github.com/anuraghazra/github-readme-stats)
+
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
@@ -17,10 +20,10 @@ Skills: REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shajid444)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shajid444)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shajid444&show_icons=true)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shajid444)  
+
+
+
+
 
